@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FirstLab</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="version_textView">v. 0.1</string>
+    <string name="b_1">1</string>
+    <string name="b_2">2</string>
+    <string name="b_3">3</string>
+    <string name="b_4">4</string>
+    <string name="b_5">5</string>
+    <string name="b_6">6</string>
+    <string name="b_7">7</string>
+    <string name="b_8">8</string>
+    <string name="b_9">9</string>
+    <string name="b_0">0</string>
+    <string name="b_dot">.</string>
+    <string name="b_help">💀</string>
+    <string name="premium_textView">Prem</string>
+    <string name="convert_text">⬇</string>
+    <string name="replace_text">🔃</string>
+    <string name="copy_text">📋</string>
+    <string-array name="unitCategories">
+        <item>distance</item>
+        <item>weight</item>
+        <item>currency</item>
+    </string-array>
+    <string-array name="convertListDistance">
+        <item>kilometers</item>
+        <item>meters</item>
+        <item>millimeters</item>
+    </string-array>
+    <string-array name="convertListWeight">
+        <item>tons</item>
+        <item>kilograms</item>
+        <item>grams</item>
+    </string-array>
+    <string-array name="convertListCurrency">
+        <item>dollars</item>
+        <item>euro</item>
+        <item>rubles</item>
+    </string-array>
+</resources>
