@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Fragment2">
+    tools:context=".KeyboardFragment">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/frag2"
@@ -78,7 +78,7 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <Button
-            android:id="@+id/buttonDot2"
+            android:id="@+id/buttonKill"
             android:layout_width="49dp"
             android:layout_height="50dp"
             android:layout_marginStart="228dp"

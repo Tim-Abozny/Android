@@ -18,7 +18,8 @@
     <string name="premium_textView">Prem</string>
     <string name="convert_text">⬇</string>
     <string name="replace_text">🔃</string>
-    <string name="copy_text">📋</string>
+    <string name="copy_text1">📋1</string>
+    <string name="copy_text2">📋2</string>
     <string-array name="unitCategories">
         <item>distance</item>
         <item>weight</item>
